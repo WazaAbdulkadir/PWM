@@ -1,4 +1,4 @@
 # PWM
 
-![] (https://github.com/WazaAbdulkadir/PWM/blob/main/image/pwm.png)
+![](https://github.com/WazaAbdulkadir/PWM/blob/main/image/pwm.png)
 
